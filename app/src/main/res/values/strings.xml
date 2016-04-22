@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Spin-der</string>
+    <string name="facebook_app_id">1000388686712566</string>
+    <string name="welcomeTxt">Welcome</string>
+</resources>
